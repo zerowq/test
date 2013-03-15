@@ -1,6 +1,3 @@
-test
-====
+珍爱生命
 
-test
-
-echo liu;
+远离code
